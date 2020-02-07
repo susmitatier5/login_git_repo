@@ -1,0 +1,11 @@
+#dashboardHeading {
+    text-align: center;
+}
+
+#dashboardHeading h1 {
+    display: inline-block !important;
+}
+
+#buttonWrap {
+    float: right !important;
+}
